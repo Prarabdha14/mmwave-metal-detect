@@ -1,0 +1,37 @@
+{
+  "detections": [
+    {
+      "range_bin": 29,
+      "range_m": 18.125,
+      "doppler_bin": 26,
+      "velocity_m_s": -3.906,
+      "label": "non-metal",
+      "prob": 0.0
+    },
+    {
+      "range_bin": 15,
+      "range_m": 9.375,
+      "doppler_bin": 32,
+      "velocity_m_s": 0.0,
+      "label": "non-metal",
+      "prob": 0.0
+    },
+    {
+      "range_bin": 28,
+      "range_m": 17.5,
+      "doppler_bin": 32,
+      "velocity_m_s": 0.0,
+      "label": "non-metal",
+      "prob": 0.0
+    },
+    {
+      "range_bin": 40,
+      "range_m": 25.0,
+      "doppler_bin": 32,
+      "velocity_m_s": 0.0,
+      "label": "non-metal",
+      "prob": 0.0
+    }
+  ],
+  "threshold_db": 16.742045032488505
+}
